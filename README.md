@@ -5,7 +5,7 @@ A high-performance, real-time social feed system that handles 10K+ posts/second 
 
 ### Why This Project?
 - Uses *Java + Kafka* (same as X.com’s backend)
-- Deployed with *Terraform + Kubernetes/OpenShift* (matches your Globus & E-Mech experience)
+- Deployed with *Terraform + Kubernetes/OpenShift* (matches with Globus & E-Mech experience)
 - Production-grade IaC, CI/CD, monitoring — everything recruiters want to see
 
 ### Architecture
